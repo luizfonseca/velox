@@ -1,9 +1,9 @@
 {
-  "name": "node-typescript-boilerplate",
-  "version": "0.0.0",
-  "description": "Minimalistic boilerplate to quick-start Node.js development in TypeScript.",
+  "name": "velox",
+  "version": "0.0.1",
+  "description": "Next HTTP Server",
   "engines": {
-    "node": ">= 14.16 <15"
+    "node": ">= 14.16"
   },
   "devDependencies": {
     "@types/jest": "~26.0.23",
